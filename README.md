@@ -71,16 +71,18 @@ HTML, CSS, JavaScript, Java, JSP, Spring Boot, MySQL, GitHub 등
 
 ## 🧑‍🤝‍🧑 개발자 소개 
 
-최규호 : 팀원, GIT 통합 (https://github.com/rutaku12rutaku12)
+최규호 : 팀원, GIT 통합
 * FrontEnd 구현 담당
 * 의류수거함 위치 표시 기능 담당
 * 쓰레기 배출 정보 표시 기능 담당
-* 
+* GIT: https://github.com/rutaku12rutaku12
+  
 김재영 : 팀장 (https://github.com/IceP0tato)
 * 날씨 정보 표시 기능 담당
 * 지하철 승강기 운행 정보 표시 기능 담당
+* GIT: https://github.com/IceP0tato
 
 박옥선 : 팀원 (https://github.com/kant300)
 * 성범죄자 정보 표시 기능 담당
-
+* GIT: https://github.com/kant300
 
