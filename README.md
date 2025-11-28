@@ -1,5 +1,5 @@
 
-#  ![](https://github.com/kant300/moveon/blob/parkoaksun/src/main/resources/static/img/%EB%AC%B4%EB%B8%8C%EC%98%A8%EB%A1%9C%EA%B3%A0-crop.png?raw=true) mOveOn
+#  ![](https://github.com/kant300/moveon/blob/parkoaksun/src/main/resources/static/img/%EB%AC%B4%EB%B8%8C%EC%98%A8%EB%A1%9C%EA%B3%A0-crop.png?raw=true) mOveOn(생활 편의 통합 플랫폼)
 
   ## 구현 화면(메인페이지)
    <img src="https://github.com/user-attachments/assets/ff7caf86-0910-4353-8fe3-9008abe02352" alt="메인" width="200" height="400">
@@ -77,12 +77,12 @@ HTML, CSS, JavaScript, Java, JSP, Spring Boot, MySQL, GitHub 등
 * 쓰레기 배출 정보 표시 기능 담당
 * GIT: https://github.com/rutaku12rutaku12
   
-김재영 : 팀장 (https://github.com/IceP0tato)
+김재영 : 팀장
 * 날씨 정보 표시 기능 담당
 * 지하철 승강기 운행 정보 표시 기능 담당
 * GIT: https://github.com/IceP0tato
 
-박옥선 : 팀원 (https://github.com/kant300)
+박옥선 : 팀원
 * 성범죄자 정보 표시 기능 담당
 * GIT: https://github.com/kant300
 
