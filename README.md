@@ -15,7 +15,7 @@
 </details>
 
 <details> 
-  <summary>쓰레기 배출 정보 관리자 페이지</summary> 
+  <summary>쓰레기 배출 정보(관리자 페이지)</summary> 
   <div align="center">
     <img alt="image" src="https://github.com/user-attachments/assets/5d689f0d-381c-48d1-a0e9-099537e5621a" width="400" height="400" />
     <img alt="image" src="https://github.com/user-attachments/assets/9734c52c-7cd1-4cd1-8d1b-1d184fd6bb5e" width="600" height="400" />
